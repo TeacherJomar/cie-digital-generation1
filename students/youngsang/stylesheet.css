@@ -1,0 +1,84 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-image: url('picture-2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo {
+  height: 100px;
+  border-radius: 5px;
+}
+
+.big-box-2{
+  background-color: brown;
+  margin-top: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-bottom: 50px;
+  border-radius: 20px;
+}
+
+.little-box-1{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+
+}
+
+.main-picture {
+  border-radius: 20px;
+  width: 500px;
+}
+
+.little-box-2{
+  padding-top: 20px;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-bottom: 20px;
+}
+
+.main-text{
+  font-size: 30px;
+  line-height: 1.5;
+}
+
+.little-box-3 {
+  padding-left: 50px;
+  padding-bottom: 50px;
+	
+}
+
+.button-1{
+  display: block;
+  background-color: red;
+  font-size: 18px;
+  border: solid;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.button-2{
+  display: block;
+  background-color: red;
+  font-size: 18px;
+  border: solid;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+
+.button-3{
+  display: in-line block;
+  background-color:green;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
