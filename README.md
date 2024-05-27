@@ -1,5 +1,6 @@
 Project Name: project-2024
 Advisers: Teacher Mike and Teacher Jomar
+Story Created by: Teacher Jomar
 Game Creators: CIE Digital Generation Club Members
 
 Instructions to the Creators:
